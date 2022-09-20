@@ -1,2 +1,3 @@
 # vj-assign
-demo link: naseebpanghal1434/vijayiAssign 
+demo link: 
+https://naseebpanghal1434.github.io/vj-assign/
